@@ -2,7 +2,7 @@
 
 # 👋 Hi, I’m Aaryan Muku
 
-### CS spec @ University of Alberta
+### CS specialization @ University of Alberta
 
 Trying to build reliable systems, intelligent developer tools, and products that make my life easier.
 

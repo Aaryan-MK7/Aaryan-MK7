@@ -18,11 +18,8 @@ Trying to build reliable systems, intelligent developer tools, and products that
 
 I’m a Computing Science specialization student at the University of Alberta with internship experience across **BMO**, **ARO Robotic Systems**, and **Naukri · InfoEdge**.
 
-I enjoy the layer where product thinking meets systems engineering: distributed software, cloud infrastructure, machine learning, code intelligence, reliability, and developer experience.
+I enjoy the layer where product thinking kind of intersects with systems engineering: distributed software, cloud infrastructure, machine learning, code intelligence, reliability, and developer experience.
 
--  Building **Packet**, **Ripple**, and **BlackBox**
--  Interested in systems that make complex work easier to understand and safer to change
--  Happiest when the interface is clear and the implementation is solid
 
 ## 💼 Experience
 

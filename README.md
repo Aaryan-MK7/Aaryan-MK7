@@ -1,81 +1,95 @@
 <div align="center">
 
-# Aaryan Muku
+# 👋 Hi, I’m Aaryan Muku
 
 ### CS spec @ University of Alberta
 
-Software engineer building reliable systems, developer tools, and products that hold up.
+I build reliable systems, intelligent developer tools, and products that hold up.
 
-[Portfolio](https://aaryan-mk7.github.io/AaryanMk-profile/) · [LinkedIn](https://www.linkedin.com/in/aaryanm05/) · [Email](mailto:aaryanmuku3@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aaryan-mk7.github.io/AaryanMk-profile/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaryanm05/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaryanmuku3@gmail.com)
 
 </div>
 
 <br>
 
-## About
+## 🧭 A little about me
 
 I’m a Computing Science specialization student at the University of Alberta with internship experience across **BMO**, **ARO Robotic Systems**, and **Naukri · InfoEdge**.
 
-I like working where software engineering meets systems thinking: distributed products, cloud infrastructure, code intelligence, reliability, and useful developer experiences.
+I enjoy the layer where product thinking meets systems engineering: distributed software, cloud infrastructure, machine learning, code intelligence, reliability, and developer experience.
 
-## Experience
+- 🔭 Building **Packet**, **Ripple**, and **BlackBox**
+- 🧠 Interested in systems that make complex work easier to understand and safer to change
+- 🛠️ Happiest when the interface is clear and the implementation is solid
+
+## 💼 Experience
 
 | Company | Role | Period |
-| --- | --- | --- |
-| **Bank of Montreal** | Software Engineering Intern | 2026–27 |
-| **ARO Robotic Systems** | Software Engineering Intern | 2025 |
-| **Naukri · InfoEdge** | Machine Learning Intern | 2024 |
+| :--- | :--- | :---: |
+| **Bank of Montreal** | Software Engineering Intern | `2026–27` |
+| **ARO Robotic Systems** | Software Engineering Intern | `2025` |
+| **Naukri · InfoEdge** | Machine Learning Intern | `2024` |
 
-## Selected work
+## 🚀 Featured projects
 
-### [Packet](https://github.com/Aaryan-MK7/Packet) · In development
+<table>
+<thead>
+<tr>
+<th>Project</th>
+<th>What it does</th>
+<th>Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://github.com/Aaryan-MK7/Packet">📦 <strong>Packet</strong></a></td>
+<td><sub>Multi-agent intelligence layer that reconciles scattered documents and coordinates agents to assemble unified, context-rich knowledge packets.</sub></td>
+<td><sub>In development</sub></td>
+</tr>
+<tr>
+<td><a href="https://github.com/Aaryan-MK7/Ripple">🌊 <strong>Ripple</strong></a></td>
+<td><sub>Local intelligence layer that maps code, databases, services, and dependencies, then coordinates agents to propagate changes safely across a system.</sub></td>
+<td><sub>In development</sub></td>
+</tr>
+<tr>
+<td><a href="https://github.com/Aaryan-MK7/BlackBox">🧪 <strong>BlackBox</strong></a></td>
+<td><sub>Local-first reliability lab for recreating service failures, testing recovery strategies, and validating fixes against correctness and performance checks.</sub></td>
+<td><sub>In development</sub></td>
+</tr>
+<tr>
+<td><a href="https://github.com/Aaryan-MK7/Crimson">🔴 <strong>Crimson</strong></a></td>
+<td><sub>Community-powered social platform with a Django REST backend and PostgreSQL data layer.</sub></td>
+<td><sub>Shipped</sub></td>
+</tr>
+<tr>
+<td><a href="https://github.com/Aaryan-MK7/Bridge">🌉 <strong>Bridge</strong></a></td>
+<td><sub>Internal documentation bridge designed to help teams keep shared knowledge connected.</sub></td>
+<td><sub>Shipped</sub></td>
+</tr>
+<tr>
+<td><a href="https://github.com/Aaryan-MK7/Ticketjack">🎟️ <strong>Ticketjack</strong></a></td>
+<td><sub>Full-stack Android event-booking application with mobile-first flows and Firebase-backed services.</sub></td>
+<td><sub>Shipped</sub></td>
+</tr>
+</tbody>
+</table>
 
-Multi-agent intelligence layer for reconciling scattered documents and assembling unified knowledge packets.
+## 🧰 Languages and tools
 
-`Python` `FastAPI` `RAG` `Agents`
+<p>
+  <img src="https://skillicons.dev/icons?i=python,typescript,java,kotlin,react,nodejs,django,fastapi,postgres,mongodb,aws,kubernetes,docker,git" alt="Python, TypeScript, Java, Kotlin, React, Node.js, Django, FastAPI, PostgreSQL, MongoDB, AWS, Kubernetes, Docker, and Git" />
+</p>
 
-### [Ripple](https://github.com/Aaryan-MK7/Ripple) · In development
+## 📫 Find me
 
-Local intelligence layer that maps code, databases, services, and dependencies to propagate changes safely.
+<a href="https://www.linkedin.com/in/aaryanm05/"><img src="https://skillicons.dev/icons?i=linkedin" width="42" alt="LinkedIn" /></a>
+&nbsp;
+<a href="https://github.com/Aaryan-MK7"><img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub" /></a>
+&nbsp;
+<a href="mailto:aaryanmuku3@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="42" alt="Email" /></a>
 
-`MCP` `RAG` `Git`
-
-### [BlackBox](https://github.com/Aaryan-MK7/BlackBox) · In development
-
-Local-first reliability lab for recreating service failures and validating recovery strategies.
-
-`Kubernetes` `AWS` `OpenTelemetry`
-
-### [Crimson](https://github.com/Aaryan-MK7/Crimson) · Shipped
-
-Community-powered social platform built with Django and PostgreSQL.
-
-`Django` `REST` `PostgreSQL`
-
-<details>
-<summary>More projects</summary>
-
-| Project | Description | Status |
-| --- | --- | --- |
-| [Bridge](https://github.com/Aaryan-MK7/Bridge) | Internal documentation bridge for teams. | Shipped |
-| [Ticketjack](https://github.com/Aaryan-MK7/Ticketjack) | Full-stack Android event-booking application. | Shipped |
-
-</details>
-
-## Current toolkit
-
-`Python` · `TypeScript` · `Java` · `Kotlin` · `Django` · `FastAPI` · `React` · `PostgreSQL` · `MongoDB` · `AWS` · `Kubernetes` · `Docker` · `Git`
-
-## Connect
-
-I’m interested in thoughtful engineering problems, strong teams, and products with real-world impact.
-
-- **Portfolio:** [aaryan-mk7.github.io/AaryanMk-profile](https://aaryan-mk7.github.io/AaryanMk-profile/)
-- **LinkedIn:** [linkedin.com/in/aaryanm05](https://www.linkedin.com/in/aaryanm05/)
-- **Email:** [aaryanmuku3@gmail.com](mailto:aaryanmuku3@gmail.com)
-
-<div align="center">
+<br>
 
 <sub>Build clearly. Ship carefully.</sub>
-
-</div>

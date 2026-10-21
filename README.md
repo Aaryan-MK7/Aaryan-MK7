@@ -29,7 +29,7 @@ Fascinated by the working layer where product thinking kind of intersects with s
 | **ARO Robotic Systems** | Software Engineering Intern | `2025` |
 | **Naukri · InfoEdge** | Machine Learning Intern | `2024` |
 
-## 🚀 Featured projects
+## Featured projects
 
 <table>
 <thead>

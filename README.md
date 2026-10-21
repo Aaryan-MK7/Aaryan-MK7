@@ -2,7 +2,7 @@
 
 # Aaryan Muku
 
-### Computing Science Specialization @ the University of Alberta
+### CS spec @ University of Alberta
 
 Software engineer building reliable systems, developer tools, and products that hold up.
 

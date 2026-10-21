@@ -20,9 +20,9 @@ I’m a Computing Science specialization student at the University of Alberta wi
 
 I enjoy the layer where product thinking meets systems engineering: distributed software, cloud infrastructure, machine learning, code intelligence, reliability, and developer experience.
 
-- 🔭 Building **Packet**, **Ripple**, and **BlackBox**
-- 🧠 Interested in systems that make complex work easier to understand and safer to change
-- 🛠️ Happiest when the interface is clear and the implementation is solid
+-  Building **Packet**, **Ripple**, and **BlackBox**
+-  Interested in systems that make complex work easier to understand and safer to change
+-  Happiest when the interface is clear and the implementation is solid
 
 ## 💼 Experience
 

@@ -92,4 +92,3 @@ I enjoy the layer where product thinking meets systems engineering: distributed 
 
 <br>
 
-<sub>Build clearly. Ship carefully.</sub>

@@ -4,7 +4,7 @@
 
 ### CS spec @ University of Alberta
 
-I build reliable systems, intelligent developer tools, and products that hold up.
+Trying to build reliable systems, intelligent developer tools, and products that make my life easier.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aaryan-mk7.github.io/AaryanMk-profile/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaryanm05/)

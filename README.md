@@ -58,12 +58,12 @@ Fascinated by the working layer where product thinking kind of intersects with s
 <tr>
 <td><a href="https://github.com/Aaryan-MK7/Crimson"> <strong>Crimson</strong></a></td>
 <td><sub>Community-powered social platform with a Django REST backend and PostgreSQL data layer.</sub></td>
-<td><a href="https://aaryan-mk7.github.io/Crimson/"><img src="https://github.com/Aaryan-MK7/Crimson/actions/workflows/pages.yml/badge.svg" alt="Crimson project preview deployment status"></a><br><sub><a href="https://aaryan-mk7.github.io/Crimson/">Project preview ↗</a></sub></td>
+<td><a href="https://crimson-demo.onrender.com"><img src="https://img.shields.io/website?url=https%3A%2F%2Fcrimson-demo.onrender.com%2Flogin%2F&amp;label=live%20demo" alt="Crimson live demo availability"></a><br><sub><a href="https://crimson-demo.onrender.com">Live application ↗</a> · <a href="https://aaryan-mk7.github.io/Crimson/">Walkthrough</a></sub></td>
 </tr>
 <tr>
 <td><a href="https://github.com/Aaryan-MK7/Bridge"> <strong>Bridge</strong></a></td>
 <td><sub>Internal documentation bridge designed to help teams keep shared knowledge connected.</sub></td>
-<td><a href="https://aaryan-mk7.github.io/Bridge/"><img src="https://github.com/Aaryan-MK7/Bridge/actions/workflows/pages.yml/badge.svg" alt="Bridge project preview deployment status"></a><br><sub><a href="https://aaryan-mk7.github.io/Bridge/">Project preview ↗</a></sub></td>
+<td><a href="https://bridge-demo-awhf.onrender.com"><img src="https://img.shields.io/website?url=https%3A%2F%2Fbridge-demo-awhf.onrender.com%2Fhealth&amp;label=live%20demo" alt="Bridge live demo availability"></a><br><sub><a href="https://bridge-demo-awhf.onrender.com">Live application ↗</a> · <a href="https://aaryan-mk7.github.io/Bridge/">Walkthrough</a></sub></td>
 </tr>
 <tr>
 <td><a href="https://github.com/Aaryan-MK7/Ticketjack"> <strong>Ticketjack</strong></a></td>
@@ -72,6 +72,8 @@ Fascinated by the working layer where product thinking kind of intersects with s
 </tr>
 </tbody>
 </table>
+
+<sub>Crimson and Bridge run on free Render services and may take about a minute to wake after inactivity.</sub>
 
 ## 🧰 Languages and tools
 

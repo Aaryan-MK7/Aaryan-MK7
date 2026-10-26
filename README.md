@@ -20,6 +20,8 @@ I’m a Computing Science specialization student at the University of Alberta wi
 
 Fascinated by the working layer where product thinking kind of intersects with systems engineering: distributed software, cloud infrastructure, machine learning, code intelligence, reliability, and developer experience.
 
+This is a newer GitHub account focused on a specific set of deep machine learning and systems projects, so the contribution history on this profile effectively begins recently rather than representing my full development history.
+
 
 ## 💼 Experience
 
@@ -58,22 +60,22 @@ Fascinated by the working layer where product thinking kind of intersects with s
 <tr>
 <td><a href="https://github.com/Aaryan-MK7/Crimson"> <strong>Crimson</strong></a></td>
 <td><sub>Community-powered social platform with a Django REST backend and PostgreSQL data layer.</sub></td>
-<td><a href="https://crimson-demo.onrender.com"><img src="https://img.shields.io/website?url=https%3A%2F%2Fcrimson-demo.onrender.com%2Flogin%2F&amp;label=live%20demo" alt="Crimson live demo availability"></a><br><sub><a href="https://crimson-demo.onrender.com">Live application ↗</a> · <a href="https://aaryan-mk7.github.io/Crimson/">Walkthrough</a></sub></td>
+<td><a href="https://crimson-demo.onrender.com"><img src="https://img.shields.io/website?url=https%3A%2F%2Fcrimson-demo.onrender.com%2Flogin%2F&amp;label=demo%20deployment" alt="Crimson demo deployment availability"></a><br><sub><a href="https://crimson-demo.onrender.com">Demo deployment ↗</a> · Portfolio environment</sub></td>
 </tr>
 <tr>
 <td><a href="https://github.com/Aaryan-MK7/Bridge"> <strong>Bridge</strong></a></td>
 <td><sub>Internal documentation bridge designed to help teams keep shared knowledge connected.</sub></td>
-<td><a href="https://bridge-demo-awhf.onrender.com"><img src="https://img.shields.io/website?url=https%3A%2F%2Fbridge-demo-awhf.onrender.com%2Fhealth&amp;label=live%20demo" alt="Bridge live demo availability"></a><br><sub><a href="https://bridge-demo-awhf.onrender.com">Live application ↗</a> · <a href="https://aaryan-mk7.github.io/Bridge/">Walkthrough</a></sub></td>
+<td><a href="https://bridge-demo-awhf.onrender.com"><img src="https://img.shields.io/website?url=https%3A%2F%2Fbridge-demo-awhf.onrender.com%2Fhealth&amp;label=demo%20deployment" alt="Bridge demo deployment availability"></a><br><sub><a href="https://bridge-demo-awhf.onrender.com">Demo deployment ↗</a> · Portfolio environment</sub></td>
 </tr>
 <tr>
 <td><a href="https://github.com/Aaryan-MK7/Ticketjack"> <strong>Ticketjack</strong></a></td>
-<td><sub>Full-stack Android event-booking application with mobile-first flows and Firebase-backed services.</sub></td>
-<td><a href="https://aaryan-mk7.github.io/Ticketjack/"><img src="https://img.shields.io/website?url=https%3A%2F%2Faaryan-mk7.github.io%2FTicketjack%2F&amp;label=interactive%20demo" alt="Ticketjack interactive demo availability"></a><br><sub><a href="https://aaryan-mk7.github.io/Ticketjack/">Interactive demo ↗</a> · Browser-local</sub></td>
+<td><sub>Full-scale Android event-booking application with mobile-first flows and Firebase-backed services.</sub></td>
+<td><a href="https://aaryan-mk7.github.io/Ticketjack/"><img src="https://img.shields.io/website?url=https%3A%2F%2Faaryan-mk7.github.io%2FTicketjack%2F&amp;label=browser%20demo" alt="Ticketjack browser demo availability"></a><br><sub><a href="https://aaryan-mk7.github.io/Ticketjack/">Browser demo ↗</a> · Full Android application in repository</sub></td>
 </tr>
 </tbody>
 </table>
 
-<sub>Crimson and Bridge run on free Render services and may take about a minute to wake after inactivity.</sub>
+<sub>These links are demonstration environments, not production deployments. Crimson and Bridge run on free Render services and may take about a minute to wake after inactivity. Ticketjack’s linked experience is a browser-local demo of the workflows in the full-scale Android application.</sub>
 
 ## 🧰 Languages and tools
 

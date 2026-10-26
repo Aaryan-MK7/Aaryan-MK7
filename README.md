@@ -60,12 +60,12 @@ This is a newer GitHub account focused on a specific set of deep machine learnin
 <tr>
 <td><a href="https://github.com/Aaryan-MK7/Crimson"> <strong>Crimson</strong></a></td>
 <td><sub>Community-powered social platform with a Django REST backend and PostgreSQL data layer.</sub></td>
-<td><a href="https://crimson-demo.onrender.com"><img src="https://img.shields.io/website?url=https%3A%2F%2Fcrimson-demo.onrender.com%2Flogin%2F&amp;label=demo%20deployment" alt="Crimson demo deployment availability"></a><br><sub><a href="https://crimson-demo.onrender.com">Demo deployment ↗</a> · Portfolio environment</sub></td>
+<td><a href="https://crimson-demo.onrender.com"><img src="https://img.shields.io/website?url=https%3A%2F%2Fcrimson-demo.onrender.com%2Flogin%2F&amp;label=demo%20deployment" alt="Crimson demo deployment availability"></a><br><sub><a href="https://crimson-demo.onrender.com">Open demo ↗</a> · Portfolio environment</sub></td>
 </tr>
 <tr>
 <td><a href="https://github.com/Aaryan-MK7/Bridge"> <strong>Bridge</strong></a></td>
 <td><sub>Internal documentation bridge designed to help teams keep shared knowledge connected.</sub></td>
-<td><a href="https://bridge-demo-awhf.onrender.com"><img src="https://img.shields.io/website?url=https%3A%2F%2Fbridge-demo-awhf.onrender.com%2Fhealth&amp;label=demo%20deployment" alt="Bridge demo deployment availability"></a><br><sub><a href="https://bridge-demo-awhf.onrender.com">Demo deployment ↗</a> · Portfolio environment</sub></td>
+<td><a href="https://bridge-demo-awhf.onrender.com"><img src="https://img.shields.io/website?url=https%3A%2F%2Fbridge-demo-awhf.onrender.com%2Fhealth&amp;label=demo%20deployment" alt="Bridge demo deployment availability"></a><br><sub><a href="https://bridge-demo-awhf.onrender.com">Open demo ↗</a> · Portfolio environment</sub></td>
 </tr>
 <tr>
 <td><a href="https://github.com/Aaryan-MK7/Ticketjack"> <strong>Ticketjack</strong></a></td>

@@ -68,7 +68,7 @@ Fascinated by the working layer where product thinking kind of intersects with s
 <tr>
 <td><a href="https://github.com/Aaryan-MK7/Ticketjack"> <strong>Ticketjack</strong></a></td>
 <td><sub>Full-stack Android event-booking application with mobile-first flows and Firebase-backed services.</sub></td>
-<td><a href="https://aaryan-mk7.github.io/Ticketjack/"><img src="https://img.shields.io/website?url=https%3A%2F%2Faaryan-mk7.github.io%2FTicketjack%2F&amp;label=project%20preview" alt="Ticketjack project preview availability"></a><br><sub><a href="https://aaryan-mk7.github.io/Ticketjack/">Project preview ↗</a></sub></td>
+<td><a href="https://aaryan-mk7.github.io/Ticketjack/"><img src="https://img.shields.io/website?url=https%3A%2F%2Faaryan-mk7.github.io%2FTicketjack%2F&amp;label=interactive%20demo" alt="Ticketjack interactive demo availability"></a><br><sub><a href="https://aaryan-mk7.github.io/Ticketjack/">Interactive demo ↗</a> · Browser-local</sub></td>
 </tr>
 </tbody>
 </table>

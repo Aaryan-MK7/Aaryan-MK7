@@ -14,7 +14,7 @@ Trying to build reliable systems, intelligent developer tools, and products that
 
 <br>
 
-## 🧭 A little about me
+## A little about me
 
 I’m a Computing Science specialization student at the University of Alberta with internship experience across **BMO**, **ARO Robotic Systems**, and **Naukri · InfoEdge**.
 
